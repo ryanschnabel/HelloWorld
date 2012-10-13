@@ -54,9 +54,6 @@ public class UserTypedExpression {
 		
 	}
 
-	private static double valueOf(double d) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+	
 
 }
