@@ -1,0 +1,5 @@
+Name:        	Ryan
+Grade 1:           100
+Grade 2:           50
+Grade 3:           12
+Average Grade:  54
